@@ -1,0 +1,158 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dog",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.exercise.Dog",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EqualsMethod2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.EqualsMethod2",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Equivalence",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.Equivalence",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AutoInc",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.AutoInc",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PassObject",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.PassObject",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Assignment",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.Assignment",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Precedence",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.Precedence",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Storage",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.object.exercise.Storage",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataOnly",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.object.exercise.DataOnly",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ATypeName",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.object.exercise.ATypeName",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.object.exercise.HelloWorld",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.object.exercise.Student",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShowProperties",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.object.ShowProperties",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.App",
+            "args": "",
+            "projectName": "thinkInJava"
+        }
+    ]
+}
