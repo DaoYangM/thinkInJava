@@ -2,6 +2,61 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RoundingNumbers",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.RoundingNumbers",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CastingNumbers",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.CastingNumbers",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringOperators",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.StringOperators",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TernaryIfElse",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.TernaryIfElse",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShortCircuit",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.operators.ShortCircuit",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Dog",
             "request": "launch",
             "cwd": "${workspaceFolder}",
