@@ -2,6 +2,39 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - OverloadingOrder",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.initialization.OverloadingOrder",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tree",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.initialization.Tree",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleConstructor",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.initialization.SimpleConstructor",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RoundingNumbers",
             "request": "launch",
             "cwd": "${workspaceFolder}",
