@@ -4,9 +4,11 @@ public class Parcel2 {
 
     class Contents {
         private int i = 11;
+
         public int value() {
             return i;
         }
+
     }
 
     class Destination {
