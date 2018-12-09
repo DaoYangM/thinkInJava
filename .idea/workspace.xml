@@ -2,186 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827f3436-931a-4e66-a82f-d8b8d8817bc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/initialization/BigEgg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/initialization/BigEgg2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/initialization/LocalInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/InheritInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/AddingGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/ApplesAndOrangesWithGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/ApplesAndOrangesWithoutGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/AsListInference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/GenericsAndUpcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/SimpleCollection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/controller/GreenhouseControls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/controller/GreenhouseControls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/thinkInJava.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/NewVarArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/NewVarArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/VarArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/VarArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/AnonymousConstructor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/AnonymousConstructor$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/AnonymousConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/AnonymousConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Callbacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Callbacks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Callee2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Callee2$Closure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Callee2$Closure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Callee2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Callee2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Calleel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Calleel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Caller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Caller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Checkers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Checkers$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Checkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Checkers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Chess$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Chess$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Chess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Chess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/ClassInInterface$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/ClassInInterface$Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/ClassInInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/ClassInInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Contents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Destination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/DotNew$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/DotNew$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/DotNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/DotNew.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/DotThis$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/DotThis$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/DotThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/DotThis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Factories.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Factories.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/GameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/GameFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Games.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Games.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/GreenhouseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/GreenhouseController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Implementation1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Implementation1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Implementation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Implementation1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Implementation2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Implementation2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Implementation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Implementation2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Incrementable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Incrementable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MNA$A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MNA$A$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MNA$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MNA$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MNA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MNA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MultiImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MultiImplementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MultiNestingAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MultiNestingAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MyIncrement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/MyIncrement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel1$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel1$Contents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel1$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel1$Destination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel10$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel10$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel11$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel11$ParcelContents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel11$ParcelContents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel11$ParcelDestination$AntherLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel11$ParcelDestination$AntherLevel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel11$ParcelDestination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel11$ParcelDestination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel2$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel2$Contents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel2$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel2$Destination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel3$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel3$Contents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel3$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel3$Destination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel4$PContents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel4$PContents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel4$PDestination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel4$PDestination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel5$1PDestination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel5$1PDestination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel6$1TrackingSlip.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel6$1TrackingSlip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel7$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel7$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel8$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel8$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel9$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel9$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Parcel9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Selector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Sequence$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Sequence$ReverseSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Sequence$ReverseSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Sequence$SequenceSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Sequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/ServiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/ServiceFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/TestBed$Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/TestBed$Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/TestBed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/TestBed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/TestParcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/TestParcel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Wrapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Wrapping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Z$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Z$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Z.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/Z.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/controller/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/controller/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/controller/Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/controller/GreenhouseControls$Terminate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/controller/GreenhouseControls$Terminate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/controller/GreenhouseControls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/controller/GreenhouseControls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E15$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E15$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E18$E.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E18$E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E7$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E7$Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E72$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E72$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E72$T.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E72$T.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E72.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E72.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E9$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E9$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/E9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/Outer$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/T.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/T20$T21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/T20$T21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/T20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/T20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/a/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/a/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/b/A2$T.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/b/A2$T.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/b/A2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/b/A2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/c/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/innerclasses/exercise/c/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/AbstractGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/AbstractGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/C2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/C2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/C3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/C3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/C4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/C4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Checkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Checkers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/CheckersFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/CheckersFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Chess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Chess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/ChessFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/ChessFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Factories.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Factories.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/GameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/GameFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Games.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Games.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/I1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/I1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/I2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/I2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/I3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/I3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Implementation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Implementation1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Implementation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Implementation2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/ImplementationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/ImplementationFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/ImplementationFactory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/ImplementationFactory2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/InterfaceCollision.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/InterfaceCollision.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/ServiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/ServiceFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/TestRandVals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/TestRandVals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/Coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/Coin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/CoinFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/CoinFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/Dice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/DiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/DiceFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/E19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/E19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/IPlayable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/IPlayable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/IPlayableFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/exercise/IPlayableFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$BImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$BImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$BImp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$BImp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$CImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$CImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$CImp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$CImp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$D.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$DImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$DImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$DImp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A$DImp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/E$G.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/E$G.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/E$H.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/E$H.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$BImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$BImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$CImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$CImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$EGImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$EGImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$EImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$EImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$EImp2$EG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$EImp2$EG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$EImp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces$EImp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/interfaces/nesting/NestingInterfaces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/BoardGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/BoardGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/Chess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/Chess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/exercise/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/exercise/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/exercise/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/exercise/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/exercise/Exercise5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/reusing/exercise/Exercise5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/PassingThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/PassingThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Peeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Peeler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Solution.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -196,14 +28,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/initialization/LocalInnerClass.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/AsListInference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="53" column="5" selection-start-line="52" selection-end-line="83" selection-end-column="5" />
+            <state relative-caret-position="515">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1328#1336#0" expanded="true" />
-                <element signature="e#1373#1381#0" expanded="true" />
+                <element signature="e#709#715#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -226,12 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/RandVals.java" />
-        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/TestRandVals.java" />
-        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/nesting/NestingInterfaces.java" />
-        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/Factories.java" />
-        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/Games.java" />
-        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/exercise/E19.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Parcell.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Parcel1.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/DotThis.java" />
@@ -277,6 +102,12 @@
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/initialization/BigEgg.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/initialization/BigEgg2.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/initialization/LocalInnerClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/ApplesAndOrangesWithoutGenerics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/ApplesAndOrangesWithGenerics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/GenericsAndUpcasting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/SimpleCollection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/AddingGroups.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/AsListInference.java" />
       </list>
     </option>
   </component>
@@ -287,7 +118,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="287" />
     <option name="y" value="17" />
     <option name="width" value="1400" />
@@ -342,16 +173,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="daoyang" type="462c0819:PsiDirectoryNode" />
-              <item name="initialization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="daoyang" type="462c0819:PsiDirectoryNode" />
-              <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
+              <item name="holding" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -364,7 +186,7 @@
     <property name="SearchEverywhereHistoryKey" value="shape&#9;FILE&#9;file://D:/Code/Java/thinkInJava/src/main/java/top/daoyang/polymorphism/shape/Shape.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544323503210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544359638697" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mmall/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -392,20 +214,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.AsListInference">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigEgg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.initialization.BigEgg" />
+    <configuration name="AddingGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.AddingGroups" />
       <module name="thinkInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.daoyang.initialization.*" />
+          <option name="PATTERN" value="top.daoyang.holding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,13 +235,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigEgg2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.initialization.BigEgg2" />
+    <configuration name="ApplesAndOrangesWithGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.ApplesAndOrangesWithGenerics" />
       <module name="thinkInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.daoyang.initialization.*" />
+          <option name="PATTERN" value="top.daoyang.holding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,13 +249,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreenhouseController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.innerclasses.GreenhouseController" />
+    <configuration name="AsListInference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.AsListInference" />
       <module name="thinkInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.daoyang.innerclasses.*" />
+          <option name="PATTERN" value="top.daoyang.holding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,13 +263,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.initialization.LocalInnerClass" />
+    <configuration name="GenericsAndUpcasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.GenericsAndUpcasting" />
       <module name="thinkInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.daoyang.initialization.*" />
+          <option name="PATTERN" value="top.daoyang.holding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -455,13 +277,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.initialization.Solution" />
+    <configuration name="SimpleCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.SimpleCollection" />
       <module name="thinkInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.daoyang.initialization.*" />
+          <option name="PATTERN" value="top.daoyang.holding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -499,19 +321,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GreenhouseController" />
-      <item itemvalue="Application.BigEgg" />
-      <item itemvalue="Application.BigEgg2" />
-      <item itemvalue="Application.LocalInnerClass" />
-      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.ApplesAndOrangesWithGenerics" />
+      <item itemvalue="Application.GenericsAndUpcasting" />
+      <item itemvalue="Application.SimpleCollection" />
+      <item itemvalue="Application.AddingGroups" />
+      <item itemvalue="Application.AsListInference" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.LocalInnerClass" />
-        <item itemvalue="Application.BigEgg2" />
-        <item itemvalue="Application.BigEgg" />
-        <item itemvalue="Application.GreenhouseController" />
+        <item itemvalue="Application.AsListInference" />
+        <item itemvalue="Application.AddingGroups" />
+        <item itemvalue="Application.SimpleCollection" />
+        <item itemvalue="Application.GenericsAndUpcasting" />
+        <item itemvalue="Application.ApplesAndOrangesWithGenerics" />
       </list>
     </recent_temporary>
   </component>
@@ -545,12 +367,12 @@
       <workItem from="1543925903183" duration="41000" />
       <workItem from="1544006754061" duration="4175000" />
       <workItem from="1544097702687" duration="5827000" />
-      <workItem from="1544183099877" duration="5308000" />
+      <workItem from="1544183099877" duration="9658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61351000" />
+    <option name="totallyTimeSpent" value="65701000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,20 +384,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="287" y="17" width="1400" height="997" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.2356257" visible="true" weight="0.26791045" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2356257" visible="true" weight="0.1913646" />
       <window_info id="Structure" order="1" sideWeight="0.76258993" side_tool="true" weight="0.19583334" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.7643743" side_tool="true" weight="0.20567375" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299075" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.3618635" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42708334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3618635" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32919955" />
@@ -616,90 +439,10 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/top/daoyang/initialization/LocalInnerClass.java</url>
-          <line>82</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/TestRandVals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/RandomDoubles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/AdaptedRandomDoubles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/nesting/NestingInterfaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-          <folding>
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/exercise/E19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/interfaces/InterfaceCollision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="374" column="25" selection-start-line="374" selection-start-column="25" selection-end-line="374" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/DotThis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -1065,41 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
-            <element signature="e#1200#1201#0" expanded="true" />
-            <element signature="e#1239#1240#0" expanded="true" />
-            <element signature="e#1287#1288#0" expanded="true" />
-            <element signature="e#1314#1315#0" expanded="true" />
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1417#1418#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1502#1503#0" expanded="true" />
-            <element signature="e#1952#1953#0" expanded="true" />
-            <element signature="e#1978#1979#0" expanded="true" />
-            <element signature="e#2024#2025#0" expanded="true" />
-            <element signature="e#2048#2049#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Callbacks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1232,12 +940,110 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/initialization/LocalInnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="53" column="5" selection-start-line="52" selection-end-line="83" selection-end-column="5" />
+        <state relative-caret-position="974">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1328#1336#0" expanded="true" />
-            <element signature="e#1373#1381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/ApplesAndOrangesWithoutGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#247#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/ApplesAndOrangesWithGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/GenericsAndUpcasting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1475">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1200#1201#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1417#1418#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#1502#1503#0" expanded="true" />
+            <element signature="e#1952#1953#0" expanded="true" />
+            <element signature="e#1978#1979#0" expanded="true" />
+            <element signature="e#2024#2025#0" expanded="true" />
+            <element signature="e#2048#2049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/SimpleCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="3799" column="29" selection-start-line="3799" selection-start-column="29" selection-end-line="3799" selection-end-column="29" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+            <element signature="e#177353#177354#0" expanded="true" />
+            <element signature="e#177410#177411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/AddingGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/AsListInference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#709#715#0" expanded="true" />
           </folding>
         </state>
       </provider>
