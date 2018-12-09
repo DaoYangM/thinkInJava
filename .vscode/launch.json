@@ -2,6 +2,17 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - InheritInner",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.innerclasses.InheritInner",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Stem",
             "request": "launch",
             "cwd": "${workspaceFolder}",

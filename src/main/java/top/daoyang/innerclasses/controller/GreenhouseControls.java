@@ -135,6 +135,40 @@ public class GreenhouseControls extends Controller {
         }
     }
 
+    private boolean fan = false;
+
+    public class FanOn extends Event {
+
+        public FanOn(long delayTime) {
+            super(delayTime);
+        }
+
+        @Override
+        public void action() {
+            fan = true;
+        }
+
+        @Override
+        public String toString() {
+            return "Fan on";
+        }
+    }
+
+    public class FanOff extends Event {
+        public FanOff(long delayTime) {
+            super(delayTime);
+        }
+        @Override
+        public void action() {
+            fan = false;
+        }
+
+        @Override
+        public String toString() {
+            return "Fan off";
+        }
+    }
+
     public static class Terminate extends Event {
         public Terminate(long delayTime) { super(delayTime); }
         public void action() { System.exit(0); }
