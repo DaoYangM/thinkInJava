@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827f3436-931a-4e66-a82f-d8b8d8817bc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/AddingGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/ApplesAndOrangesWithGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/ApplesAndOrangesWithoutGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/AsListInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/GenericsAndUpcasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/SimpleCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/PrintingContainers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/holding/exercise/E4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/PassingThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/PassingThis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Peeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Peeler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/daoyang/initialization/Solution.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,14 +19,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/AsListInference.java">
+        <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/io/PrintStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#709#715#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-651">
+              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -57,8 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Parcell.java" />
-        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Parcel1.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/DotThis.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/DotNew.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Parcel3.java" />
@@ -108,6 +93,8 @@
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/SimpleCollection.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/AddingGroups.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/AsListInference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/PrintingContainers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/holding/exercise/E4.java" />
       </list>
     </option>
   </component>
@@ -118,7 +105,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="287" />
     <option name="y" value="17" />
     <option name="width" value="1400" />
@@ -186,7 +173,7 @@
     <property name="SearchEverywhereHistoryKey" value="shape&#9;FILE&#9;file://D:/Code/Java/thinkInJava/src/main/java/top/daoyang/polymorphism/shape/Shape.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544359638697" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544450499776" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mmall/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -214,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AsListInference">
+  <component name="RunManager" selected="Application.E4">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -223,20 +210,6 @@
     </configuration>
     <configuration name="AddingGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.AddingGroups" />
-      <module name="thinkInJava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.daoyang.holding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplesAndOrangesWithGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.ApplesAndOrangesWithGenerics" />
       <module name="thinkInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -263,8 +236,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsAndUpcasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.GenericsAndUpcasting" />
+    <configuration name="E4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.exercise.E4" />
+      <module name="thinkInJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.daoyang.holding.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintingContainers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.holding.PrintingContainers" />
       <module name="thinkInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -321,19 +308,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ApplesAndOrangesWithGenerics" />
-      <item itemvalue="Application.GenericsAndUpcasting" />
       <item itemvalue="Application.SimpleCollection" />
       <item itemvalue="Application.AddingGroups" />
       <item itemvalue="Application.AsListInference" />
+      <item itemvalue="Application.PrintingContainers" />
+      <item itemvalue="Application.E4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E4" />
+        <item itemvalue="Application.PrintingContainers" />
         <item itemvalue="Application.AsListInference" />
         <item itemvalue="Application.AddingGroups" />
         <item itemvalue="Application.SimpleCollection" />
-        <item itemvalue="Application.GenericsAndUpcasting" />
-        <item itemvalue="Application.ApplesAndOrangesWithGenerics" />
       </list>
     </recent_temporary>
   </component>
@@ -367,12 +354,13 @@
       <workItem from="1543925903183" duration="41000" />
       <workItem from="1544006754061" duration="4175000" />
       <workItem from="1544097702687" duration="5827000" />
-      <workItem from="1544183099877" duration="9658000" />
+      <workItem from="1544183099877" duration="10768000" />
+      <workItem from="1544445450278" duration="3725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65701000" />
+    <option name="totallyTimeSpent" value="70536000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -384,20 +372,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2356257" visible="true" weight="0.1913646" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.2356257" visible="true" weight="0.19349681" />
       <window_info id="Structure" order="1" sideWeight="0.76258993" side_tool="true" weight="0.19583334" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.7643743" side_tool="true" weight="0.20567375" />
-      <window_info anchor="bottom" id="Duplicate detector" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299075" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3618635" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3618635" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,6 +396,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32719395" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32912722" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32936078" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -443,68 +431,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/DotThis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <element signature="e#71#72#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/DotNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Parcel1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/exercise/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Contents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/Destination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/innerclasses/TestParcel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="849">
@@ -1017,10 +943,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/AddingGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="3799" column="29" selection-start-line="3799" selection-start-column="29" selection-end-line="3799" selection-end-column="29" />
+          <caret line="3799" column="32" lean-forward="true" selection-start-line="3799" selection-start-column="32" selection-end-line="3799" selection-end-column="32" />
           <folding>
             <element signature="e#177013#177014#0" expanded="true" />
             <element signature="e#177054#177055#0" expanded="true" />
@@ -1030,21 +963,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/AddingGroups.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/AsListInference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        <state relative-caret-position="190">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/AsListInference.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/PrintingContainers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="303" column="30" selection-start-line="303" selection-start-column="30" selection-end-line="303" selection-end-column="30" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+            <element signature="e#11079#11080#0" expanded="true" />
+            <element signature="e#11117#11118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="144" column="12" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/holding/exercise/E4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#709#715#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="109" column="28" lean-forward="true" selection-start-line="109" selection-start-column="28" selection-end-line="109" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-651">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
         </state>
       </provider>
     </entry>

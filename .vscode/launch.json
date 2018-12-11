@@ -2,6 +2,72 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SetOperations",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.holding.SetOperations",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortedSetOfInteger",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.holding.SortedSetOfInteger",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SetOfInteger",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.holding.SetOfInteger",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StackTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.holding.StackTest",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E14",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.holding.exercise.E14",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E12",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.holding.exercise.E12",
+            "args": "",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - InheritInner",
             "request": "launch",
             "cwd": "${workspaceFolder}",
