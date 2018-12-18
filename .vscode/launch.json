@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - E5",
+            "request": "launch",
+            "mainClass": "top.daoyang.exceptions.exercise.E5",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E4",
+            "request": "launch",
+            "mainClass": "top.daoyang.exceptions.exercise.E4",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E3",
+            "request": "launch",
+            "mainClass": "top.daoyang.exceptions.exercise.E3",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E2",
+            "request": "launch",
+            "mainClass": "top.daoyang.exceptions.exercise.E2",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E1",
+            "request": "launch",
+            "mainClass": "top.daoyang.exceptions.exercise.E1",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FullConstructors",
+            "request": "launch",
+            "mainClass": "top.daoyang.exceptions.FullConstructors",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InheritingExceptions",
+            "request": "launch",
+            "mainClass": "top.daoyang.exceptions.InheritingExceptions",
+            "projectName": "thinkInJava"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SetOperations",
             "request": "launch",
             "cwd": "${workspaceFolder}",
