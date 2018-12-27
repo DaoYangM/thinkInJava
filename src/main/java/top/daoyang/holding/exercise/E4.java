@@ -29,7 +29,6 @@ public class E4 {
         for (int i = 0; i < 10; i++) {
             aL.add(generate.next());
         }
-
         System.out.println(aL);
     }
 }

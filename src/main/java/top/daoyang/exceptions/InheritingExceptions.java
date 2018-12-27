@@ -1,5 +1,8 @@
 package top.daoyang.exceptions;
 
+import java.util.HashMap;
+import java.util.HashSet;
+
 class SimpleException extends Exception {}
 
 public class InheritingExceptions {
